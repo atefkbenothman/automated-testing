@@ -9,3 +9,6 @@ venv/
 
 # coverage
 .coverage
+
+# tox
+.tox/

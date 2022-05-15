@@ -2,9 +2,10 @@ Metadata-Version: 2.1
 Name: calculator
 Version: 0.1.0
 Summary: learning how to automate tests in python.
-Home-page: UNKNOWN
 License: MIT
-Description: UNKNOWN
 Platform: UNKNOWN
 Requires-Python: >=3.6
 Provides-Extra: testing
+
+UNKNOWN
+
