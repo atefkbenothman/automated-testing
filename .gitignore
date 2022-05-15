@@ -1,0 +1,11 @@
+# pycharm
+.idea
+
+# python venv
+venv/
+
+# cache
+*_cache/
+
+# coverage
+.coverage
