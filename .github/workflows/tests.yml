@@ -10,7 +10,7 @@ jobs:
     name: Indentation Linter
     runs-on: ${{ matrix.os }}
     strategy:
-      matrx:
+      matrix:
         os: [ubuntu-latest]
         python-version: ["3.8", "3.9"]
 
